@@ -1,14 +1,14 @@
 {
   "name": "pugify",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "browserify v2 plugin for pug with sourcemaps support",
   "main": "index.js",
   "dependencies": {
-    "@babel/core": "^7.13.10",
+    "@babel/core": "^7.18.5",
     "browserify-transform-tools": "^1.7.0",
-    "convert-source-map": "^1.7.0",
+    "convert-source-map": "^1.8.0",
     "pug": "^3.0.2",
-    "source-map": "^0.7.3",
+    "source-map": "^0.7.4",
     "through": "^2.3.8"
   },
   "devDependencies": {
